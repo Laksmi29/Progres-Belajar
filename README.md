@@ -1,12 +1,12 @@
 # Progres-Belajar
 Berisi pengalaman belajar di Dicoding
 --
-14 Juni 2021
+**14 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java (progres 21%)
 * Apa itu Java dan manfaatnya
 * Tools yang ada pada Java
 
-15 Juni 2021
+**15 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
